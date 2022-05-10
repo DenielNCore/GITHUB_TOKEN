@@ -1,0 +1,7 @@
+{
+  "name": "@ui/helpers2",
+  "version": "1.0.0",
+  "dependencies": {
+    "@ui/helpers": "^1.0.0"
+  }
+}

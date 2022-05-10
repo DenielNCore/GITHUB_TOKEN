@@ -622,6 +622,20 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@ui/helpers2@workspace:packages/helpers2":
+  version: 0.0.0-use.local
+  resolution: "@ui/helpers2@workspace:packages/helpers2"
+  dependencies:
+    "@ui/helpers": ^1.0.0
+  languageName: unknown
+  linkType: soft
+
+"@ui/helpers@^1.0.0, @ui/helpers@workspace:packages/helpers":
+  version: 0.0.0-use.local
+  resolution: "@ui/helpers@workspace:packages/helpers"
+  languageName: unknown
+  linkType: soft
+
 "@vitejs/plugin-vue-jsx@npm:^1.3.10":
   version: 1.3.10
   resolution: "@vitejs/plugin-vue-jsx@npm:1.3.10"
